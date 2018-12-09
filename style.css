@@ -31,6 +31,8 @@
   article {
       color:#ebebeb;
       background:#777;
+      padding-bottom:10px;
+      padding-top:10px;
   }
   
 
@@ -38,14 +40,20 @@
     float:left;
       margin-left:10px;
       width:375px;
+      
 
   }
 
   h1, p {
       color:#777;
       background:#ebebeb;
+      margin-left:10px;
+      margin-right:15px;
+      padding:10px;
   }
   
+
+
  section {
      width:495px;
      margin-bottom:10px;
