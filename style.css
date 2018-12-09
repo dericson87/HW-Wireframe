@@ -7,6 +7,8 @@
       width:960px;
       font-size:18px;
       align-content:center;
+      margin-left:50px;
+      margin-right:50px;
   }
   
   header {
@@ -19,12 +21,26 @@
       background:#ebebeb;
       text-align:center;
     padding:20px;
+   
   }
+  
+  nav {
+      margin-bottom:10px;
+  }
+
   article {
       color:#ebebeb;
       background:#777;
   }
   
+
+  aside {
+    float:left;
+      margin-left:10px;
+      width:375px;
+
+  }
+
   h1, p {
       color:#777;
       background:#ebebeb;
@@ -32,10 +48,16 @@
   
  section {
      width:495px;
+     margin-bottom:10px;
+  
+     float:left;
+ 
   }
     
   
   footer {
+      clear:both;
+    margin-top:10px;
    
   }
   
